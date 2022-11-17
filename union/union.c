@@ -30,3 +30,5 @@ int main()
     printf("1:%d 2:%d data:%d\r\n",one_data,two_data,t.data1);
     return 0;
 }
+
+
